@@ -1,0 +1,19 @@
+{
+  "name": "flie-metadata",
+  "version": "0.0.1",
+  "description": "File metadata microservice project for FCC",
+  "main": "file-metadata.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellacodecamp/file-metadata"
+  },
+  "scripts": {
+    "start": "node file-metadata.js"
+  },
+  "author": "Ella Baron",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4"
+  }
+}
